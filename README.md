@@ -1,1 +1,1 @@
-This is a project i done foe the intership of cognorise infotech.
+This is a project i done for the intership of cognorise infotech.
